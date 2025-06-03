@@ -16,7 +16,7 @@
 # Copyright (C) 2024 LSPosed Contributors
 #
 
-$Host.UI.RawUI.WindowTitle = "Installing MagiskOnWSA...."
+$Host.UI.RawUI.WindowTitle = "MagiskOnWSA installation is running...."
 function Test-Administrator {
     [OutputType([bool])]
     param()
